@@ -70,7 +70,7 @@ This project helped strengthen my understanding of embedded systems, practical e
 ## Preview
 
 <div align="center">
-  <img src="project-preview.png" width="850"/>
+  <img src="project-preview.jpg" width="850"/>
 </div>
 
 ---
