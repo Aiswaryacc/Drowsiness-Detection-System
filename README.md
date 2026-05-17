@@ -78,8 +78,12 @@ This project helped strengthen my understanding of embedded systems, practical e
 ## Demo
 
 <div align="center">
-  <video src="project-demo.mp4" controls width="850"></video>
+  <video src="project demo (1).mp4" controls width="850"></video>
 </div>
+
+<br>
+
+[▶ Download / Watch Demo Video](project%20demo%20(1).mp4)
 
 ---
 
