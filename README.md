@@ -44,7 +44,7 @@ The idea behind this project was to explore how embedded systems can be used to 
 
 Many existing systems are expensive or difficult to implement at a beginner level, so the goal was to design a simpler and more accessible approach using basic electronics and sensor integration.
 
-The project began with understanding how eye activity could be monitored and how sensor data could be processed in real time. From there, the focus shifted toward designing a system capable of detecting fatigue conditions and triggering an alert mechanism instantly.
+The project began with understanding how eye activity could be monitored and how sensor data could be processed in real time. From there, the focus shifted toward designing a system capable of detecting drowsiness patterns and triggering immediate alerts.
 
 Throughout the development process, I explored:
 - Real-time monitoring concepts
