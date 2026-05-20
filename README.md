@@ -70,7 +70,7 @@ This project helped strengthen my understanding of embedded systems, practical e
 ## Preview
 
 <div align="center">
-  <img src="project-preview.png" width="850" alt="Drowsiness Detection System Preview"/>
+  <img src="project-preview.jpeg" width="850" alt="Drowsiness Detection System Preview"/>
 </div>
 
 ---
